@@ -133,4 +133,4 @@ dmypy.json
 *.json
 
 # jupyter checkpoint
-.ipynb_checkpoints
+.ipynb_checkpoints 
